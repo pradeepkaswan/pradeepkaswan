@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on -
-- 🌱 I’m currently learning Web Development
-- 💬 Ask me about ...
+- 🔭 I’m currently working on - [Issue Tracker](https://github.com/pradeepkaswan/issue-tracker)
+- 🌱 I’m currently learning Full-stack Development
 - 📫 How to reach me: pradeepkaswan7@gmail.com
-- ⚡ Fun fact: ...
