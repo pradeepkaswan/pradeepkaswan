@@ -18,6 +18,13 @@
     <a href="https://www.linkedin.com/in/kaswanpradeep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-user-contribution.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-user-contribution.svg">
+  <img alt="github contribution grid snake animation" src="./assets/github-user-contribution.svg">
+</picture>
+
 <br/>
 
 <p align="center"> 
