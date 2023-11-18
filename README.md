@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
+### Hi there, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
 
 -   :penguin: Hi, I'm Pradeep Kaswan
 -   :eyes: I'm interested in web development
